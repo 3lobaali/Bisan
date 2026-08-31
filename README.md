@@ -1,4 +1,4 @@
-# Mustafa ps4 ps5 Exploit Host
+# Bisan Games Exploit Host
 
 <div align="center">
   <img src="https://img.shields.io/badge/PS4-10.00--11.02-blue?style=for-the-badge&logo=playstation" alt="PS4 Firmware">
