@@ -39,7 +39,7 @@
 
 ### Method 2: Manual Access
 1. Open the browser on your PS4/PS5
-2. Go to: `https://your-username.github.io/g2all/index.html`
+2. Go to: `https://your-username.github.io/Bisan/index.html`
 3. Follow the on-screen instructions
 
 ---
