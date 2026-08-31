@@ -62,7 +62,7 @@ header {
     text-shadow: 0 0 40px rgba(255, 46, 99, 0.3);
 }
 
-.Games-text {
+.games-text {
     background: linear-gradient(135deg, #0066ff, #00ccff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
