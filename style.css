@@ -62,14 +62,14 @@ header {
     text-shadow: 0 0 40px rgba(255, 46, 99, 0.3);
 }
 
-.ps4-text {
+.Games-text {
     background: linear-gradient(135deg, #0066ff, #00ccff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
 
-.ps5-text {
+.ps4-text {
     background: linear-gradient(135deg, #ff0066, #ff33cc);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
